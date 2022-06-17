@@ -1,0 +1,51 @@
+export const mentrenddata = [
+  {
+    src: "https://cdn.modesens.com/availability/48974218?w=400&",
+    title: "OFF-WHITE",
+    sub: "X Neen Graffiti Print Short Sleeve Button-up Shirt In Printed",
+    rate: "$348 - $845",
+    st: "33 Stores",
+  },
+  {
+    src: "https://cdn.modesens.com/availability/48268810?w=400&",
+    title: "VERSACE",
+    sub: "Men's Baroque & Medusa Head Embossed Pool Slides In Black",
+    rate: "$236 - $532    ",
+    st: "23 Stores",
+  },
+  {
+    src: "https://cdn.modesens.com/product/26319256_22?w=400&",
+    title: "OFF-WHITE",
+    sub: "Monna Lisa Cotton Jersey Hoodie In White",
+    rate: "$286 - $710    ",
+    st: "20 Stores",
+  },
+  {
+    src: "https://img.ssensemedia.com/images/221476M192000_1/purple-water-sky-shirt.jpg",
+    title: "VALENTINO",
+    sub: "Abstract-print Relaxed-fit Cotton-jersey Shirt In Blue",
+    rate: "$486 - $1049    ",
+    st: "23 Stores",
+  },
+  {
+    src: "https://cdn.modesens.com/product/10283920_255?w=400&",
+    title: "SAINT LAURENT",
+    sub: "Men's Logo-stitched Canvas Espadrilles In Neutrals",
+    rate: "$333 - $573",
+    st: "20 Stores",
+  },
+  {
+    src: "https://cdn.modesens.com/product/17142914_150?w=400&",
+    title: "VERSACE",
+    sub: "Men's Chain Reaction Caged Sneakers In White",
+    rate: "$640 - $1165",
+    st: "26 Stores",
+  },
+  {
+    src: "https://cdn-images.farfetch-contents.com/16/27/58/62/16275862_31117108_1000.jpg",
+    title: "VALENTINO GARAVANI",
+    sub: "Vltn-logo Cotton-gabardine Bucket Hat In Black",
+    rate: "$223 - $570",
+    st: "20 Stores",
+  },
+];
