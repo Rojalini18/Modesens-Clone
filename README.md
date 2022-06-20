@@ -1,7 +1,7 @@
 ## Modesens-Clone
 #### ModeSens is an American retail technology company providing men's, women's and children's apparel and accessories. The Dallas, Texas-based company offers a platform for users to shop through global retail stores using its digital shopping assistance technologies and services.
 ## Deployed Site
-### [Modesens-CloneClone](https://modesens-clone.netlify.app/)
+### [Modesens-Clone](https://modesens-clone.netlify.app/)
 ## Features
 
 - Different category of fashion accesories of men, women, kids & home decor.
