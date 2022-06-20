@@ -5,8 +5,9 @@
 ## Features
 
 - Different category of fashion accesories of men, women, kids & home decor.
-- Smooth e-commerce purchase flow from exploring different items to ordering them to your address at your convenience time
-- Completely responsive website for both desktop and mobile devices
+- Smooth e-commerce purchase flow from exploring different items to ordering them to your address at your convenience time.
+- Login / Sign-Up page.
+- Completely responsive website for both desktop and mobile devices.
 
 
 
