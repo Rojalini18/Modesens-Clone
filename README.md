@@ -16,7 +16,7 @@
 
 ### Libraries Used 
 
-- Chakra CSS
+- Chakra UI
 - Swiper JS
 
 ## Website Sneak Peeks
