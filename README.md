@@ -41,7 +41,7 @@
 
 ![mode4](https://user-images.githubusercontent.com/100181657/174338499-a7cdf5f8-e616-42db-94b0-bf74903583c8.PNG)
 
-- **Recently View Page**  
+- **App Download Page**  
 
 ![mode5](https://user-images.githubusercontent.com/100181657/174338515-b230353a-bf31-47fa-8fcc-fc5ce14d0455.PNG)
 
